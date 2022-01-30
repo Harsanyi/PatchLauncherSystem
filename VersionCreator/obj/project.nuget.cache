@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XX1sIyc2gJm4ttevnaZX9/U6zhPU82jnyGYpwkDIHdSrnxsJrMIvmcGk4qD2kRPti8LOFddb/p20E3MKbULa5g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\PatchLauncherSystem\\VersionCreator\\VersionCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hars\\.nuget\\packages\\google.apis\\1.55.0\\google.apis.1.55.0.nupkg.sha512",
+    "C:\\Users\\Hars\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",
+    "C:\\Users\\Hars\\.nuget\\packages\\google.apis.core\\1.55.0\\google.apis.core.1.55.0.nupkg.sha512",
+    "C:\\Users\\Hars\\.nuget\\packages\\google.apis.drive.v3\\1.55.0.2566\\google.apis.drive.v3.1.55.0.2566.nupkg.sha512",
+    "C:\\Users\\Hars\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
